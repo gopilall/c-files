@@ -1,0 +1,2088 @@
+Question: 1
+
+Who developed C language?
+
+C programming language was developed at Bell Laboratories in 1972
+
+by Dennis Ritchie.
+
+Question: 2
+
+C language has been developed in which language?
+
+C language has been developed using assembly level language.
+
+Question: 3
+
+What is meant by programming language?
+
+Programming language is nothing but a language designed to communicate to machines through instructions and commands.
+
+Normally machines are computers. Programs are written using some programming languages to control the behavior of machines/computers and to make them to perform required tasks.
+
+Programming language example: Assembly language, C language, C++ language, Java, C#, .NET, Python etc.
+
+Question: 4
+
+What is structured programming?
+
+It is a programming techniques that assumes the disciplined use of a few coding structures and the use of top down concepts to decompose main functions into lower level components for modular programming.
+
+The main aim of this technique is to improve the programming process through better organization and with better programming notations to facilitate correct and clear description of data and control structures.
+
+Question: 5
+
+Is C a structured programming language?
+
+Yes, C language is structured language.
+
+Question: 6
+
+What are header files?
+
+Header files are file with extension h.
+
+These files contain declarations of library functions and predefined constants and macros.
+
+Question: 7
+
+What are Keywords?
+
+Keywords are certain reserved words that have standard and pre-defined meaning in C.
+
+These keywords can be used only for their intended purpose.
+
+Question: 8
+
+What are the different data types available in C?
+
+There are four basic data types available in C,
+
+int,
+
+float,
+
+char and
+
+double
+
+Question: 9
+
+What is the difference between C and Java?
+
+C is structure/procedure oriented programming language whereas Java is object oriented programming language.
+
+C language program design is top down approach whereas Java is using bottom up approach.
+
+C language is middle level language whereas Java is high level language.
+
+Exception handling is not present in C programming language. Whereas exception handling is present in Java.
+
+Polymorphisms, virtual function inheritance, operator overloading, namespace concepts are not available in C programming language. Whereas Java supports all these concepts and features.
+
+Question: 10
+
+Basically, what does the header files contain?
+
+The header file contains declarations of library functions (prototypes of library functions) and useful enumerations and macros for the convenience of the programmers.
+
+Question: 11
+
+Why C language being considered a middle level language?
+
+This is because C language is rich in features that make it behave like a high level language while at the same time can interact with hardware using low level methods.
+
+The use of a well structured approach to programming, coupled with English like words used in functions, makes it act as a high level language.
+
+On the other hand, C can directly access memory structures similar to assembly language routines.
+
+Question: 12
+
+What is the minimum and maximum number of functions that a program may have?
+
+There is no upper limit on the number of functions in a program as it depends on the problem under consideration. However, the minimum number is 1 and the only function a program may have is the main() function.
+
+Question: 13
+
+What is an error?
+
+An error is the encoding of human misunderstanding of some aspect of programming language of problem under consideration.
+
+Question: 14
+
+Whether C language is low level language, or middle level language?
+
+The C language is a middle level language.
+
+It is called a middle level language because it has features of high level language as well as low level language.
+
+Question: 15
+
+What is the dynamic memory allocation?
+
+Allocating the memory at run time is called dynamic memory allocation.
+
+Is C language case sensitive?
+
+Yes. C language instructions/commands/functions and everything used in C program are case sensitive.
+
+Question: 17
+
+Define a file?
+
+A file is the collection of interrelated data stored on the disk.
+
+Question: 18
+
+What are the steps involved in program development life cycle?
+
+The following are the steps involved in designing the program.
+
+Program designed
+
+Program coding
+
+Program testing and Debugging
+
+Question: 19
+
+What is the difference between Interpreter and Compiler?
+
+Interpreters translate the high level language to machine level language line by line,
+
+where as Compilers translate the entire program into machine level language.
+
+Question: 20
+
+What is data type in C?
+
+Data types in C language are defined as the data storage format that a variable can store a data to perform a specific operation.
+
+Data types are used to define a variable before to use in a program.
+
+Size of variable, constant and array are determined by data types.
+
+Question: 21
+
+What is conversion specification?
+
+The conversion specifications are used to accept or display the data using the INPUT/OUTPUT statements.
+
+Question: 22
+
+What is modular programming?
+
+It is a programming technique that produces relatively small, easily understandable computer modules.
+
+A complex or large program is broken into number of logically self contained modules.
+
+These modules may be written and tested separately by number of programmers.
+
+Finally, the modules can be then put together to form the complete program/system.
+
+Question: 23
+
+What is the difference between declaration and definition of a variable?
+
+Declaration only identifies the data type of a variable whereas definition causes the space to be reserved for the variable.
+
+Thus, declaration in a place where the nature of the variable is stated but no storage is allocated whereas definition is the place where the variable is created or assigned storage.
+
+Question: 24
+
+Can we increase the size of the dynamically allocated array?
+
+Yes. This can be done using the realloc() function.
+
+Question: 25
+
+What are the different ways to represent strings?
+
+Strings can be represented using array of characters and a linked list.
+Question: 26
+
+What is a global variable?
+
+The global variable is a variable that is declared outside of all the functions.
+
+The global variable is stored in memory, the default value is zero.
+
+Scope of this variable is available in all the functions.
+
+Question: 27
+
+What is meant by Recursive Function?
+
+If a function calls itself again and again, then that function is called Recursive function.
+
+Question: 28
+
+What is mean by testing?
+
+Testing is the process of executing the program with sample or tested data.
+
+Question: 29
+
+What are the types of testing techniques?
+
+There are two types of testing techniques are:
+
+Human testing
+
+Computer based testing
+
+Question: 30
+
+What are the pre-processor directives?
+
+Macro inclusion
+Conditional inclusion
+File inclusion
+
+Question: 31
+
+What is heap?
+
+Heap is an area of memory from where is allocated at runtime using malloc() or calloc() functions.
+
+Question: 32
+
+What are formal parameters?
+
+In using functions in a C program, formal parameters contain the values that were passed by the calling function.
+
+The values are substituted in these formal parameters and used in whatever operations as indicated within the main body of the called function.
+
+Question: 33
+
+What is the difference between the =symbol and ==symbol?
+
+The =symbol is often used in mathematical operations. It is used to assign a value to a given variable.
+
+On the other hand, the ==symbol, also known as “equal to” or “equivalent to”, is relational operator that is used to compare two values.
+
+Question: 34
+
+What is the different file extensions involved when programming in C?
+
+Source code in C is saved with .C file extension. Header files or library files have the .H file extension.
+
+Every time a program source code is successfully compiled, it creates an .OBJ object file, and an executable .EXE file.
+
+Question: 35
+
+What are reserved words?
+
+Reserved words are words that are part of the standard C language library.
+
+This means that reserved words have special meaning and therefore cannot be used for purpose other than what it is originally intended for.
+
+Examples of reserved words are int, void and return.
+
+ 
+Question: 1
+
+Which year C language is developed?
+
+C programming languages was developed at Bell Laboratories in 1972 by Dennis Ritchie.
+
+Question: 2
+
+What is C language?
+
+C language is a structure/procedure oriented, middle level programming language developed at Bell Laboratories in 1972 by Dennis Ritchie.
+
+C language was invented for implementing UNIX operating system.
+
+In 1978, Dennis Ritchie and Brian Kernighan published the first edition “The C Programming Language”.
+
+Also, C language is an ANSI/ISO standard and powerful programming language for developing real time applications.
+
+Question: 3
+
+What are library functions?
+
+Library functions are a collection of predefined functions. They are stored in files with extension lib.
+
+These functions are shipped with the compiler for the convenience of the programmers.
+
+Question: 4
+
+What is a String?
+
+String is an array of characters.
+
+Question: 5
+
+What is compiler?
+
+Compiler is a program that converts human readable code into machine readable code. This process is called compilation.
+
+Question: 6
+
+What is an operator and Operand?
+
+An operator is a symbol that specifies an operation to be performed on Operands.
+
+The data items that operators act upon are called operands.
+
+Question: 7
+
+What is the difference between assembler, compiler and interpreter?
+
+Assembler is a program that converts assembly level language (low level language) into machine language.
+
+Compiler compiles entire C source code into machine code.
+
+Whereas, interpreters converts source code into intermediate code and then this intermediate code is executed line by line.
+
+Question: 8
+
+What is header file in C language?
+
+Header file is a file that contains functions declaration and macro definition for C in built library functions.
+
+All C standard library functions are declared in many header files which are saved as file_name.h.
+
+We are including these header files in our C program using “#include” command to make use of the functions those are declared in the header files.
+
+When we include header files in our C program using “#include” command, all c code of the header files are included in C program. Then, this C program is compiled by compiler and executed.
+
+ 
+
+Question: 9
+
+What is keyword in C?
+
+Keywords are pre-defined words in a C compiler. Each keyword is meant to perform a specific function in a C program.
+
+Since keywords are referred names for compiler, they can’t be used as variable name.
+
+Question: 10
+
+List out some keywords available in C language?
+
+Below are some of keywords that C language offers.
+
+auto, double, int, struct, break, else, long, switch, case, enum, register, typedef, char, extern, return, union, const, float, short, unsigned, continue, for, signed, void, default, goto, sizeof, volatile, do, if, static, while.
+
+
+Question: 11
+
+What is a sequential access file?
+
+When writing programs that will store and retrieve data in a file, it is possible to designate that file into different forms.
+
+A sequential access file is such that data are saved in sequential order: one data is placed into the file after another.
+
+To access a particular data within the sequential access file, data has to be read one data at a time, until the right one is reached.
+
+Question: 12
+
+What is “&” and “*” operators in C?
+
+“*” Operators is used as pointer to a variable.
+
+Example: * a where * is pointer to the variable a.
+
+& operator is used to get the address of the variable. Example: &a will give address of a.
+
+ 
+
+Question: 13
+
+What is a syntax error?
+
+Syntax errors are associated with mistakes in the use of a programming language.
+
+It may be a command that was misspelled or a command that must was entered in lowercase mode but was instead entered with an upper case character.
+
+A misplaced symbol or lack of symbol, somewhere within a line of code can also lead to syntax error.
+
+ 
+
+Question: 14
+
+What is the difference between memcpy() and memmove() functions in C?
+
+memcpy() functions is used to copy a specified number of bytes from one memory to another.
+
+ Memmove () function is used to copy a specified number of bytes from one memory to another or to to overlap on same memory.
+
+Difference between memmove() and memcpy() is, overlap can happen on memmove(). Whereas, memory overlap won’t happen in memcpy() and it should be done in non destructive way.
+
+Question: 15
+
+How many arguments can be passed to a function in C?
+
+Any number of arguments can be passed to a function. There is no limit on this. Function arguments are stored in stack memory rather than heap memory. Stack memory allocation is depending on the operating system.
+
+So, any number of arguments can be passed to a function as much as stack has enough memory. Program may crash when stack overflows.
+
+Question: 16
+
+Can array subscripts have negative value in C?
+
+No. Array subscripts should not have negative value. Always, it should be positive.
+
+ 
+
+Question: 17
+
+What is pragma in C?
+
+#pragma is a pre processor macro in C.
+
+It is used to call a function before and after main function in a C program.
+
+Question: 18
+
+What is null pointer in C?
+
+Null pointer is a pointer which is pointing to nothing. Null pointer points to empty location in memory.
+
+Value of null pointer is 0. We can make a pointer to point to null as below.
+
+int * p = NULL;
+
+char * p = NULL;
+
+Question: 19
+
+What is the difference between= and== operator?
+
+Where = is an assignment operator and == is a relational operator.
+
+Example:
+
+while (i=5) is an infinite loop because it is a non zero value and
+
+while (i==5) is true  only when i=5.
+
+Question: 20
+
+What is the difference between printf(), sprintf() and fprintf()?
+
+printf() is used to print the text or value of the variable in the screen .
+
+sprintf() is used to store the values in the character array or string.
+
+fprintf() is used to store the values of variable in the  file.
+
+Question: 21
+
+What is the difference between scanf() and gets() function?
+
+In scanf() when there is a blank was typed, the scanf()  assumes that it is an end.
+
+gets() assumes the enter key as end.
+
+Question: 22
+
+Specify any five syntax error messages.
+
+Missing semicolon
+Missing braces
+Missing quotes
+Improper comment characters
+Undeclared variables
+Question: 23
+
+Is it possible to place a return statement anywhere in ‘C’ program?
+
+Yes .The return statement can occur anywhere.
+
+Question: 24
+
+What will happen when you access the array more than its dimension?
+
+When you access the array more than its dimensions some garbage value is stored in the array.
+
+Question: 25
+
+What is the difference between a and “a”?
+
+Where a is a character constant and “a” is a string.
+
+Question: 26
+
+How do you close the file?
+
+The file is closed by the statement fclose(file_pointer);
+
+Question: 27
+
+A program can contain more return statements?
+
+Yes. The program can contain any number of return statements.
+
+Question: 28
+
+What are all loop controls statements in C?
+
+Loop control statements in C are used to perform looping operations until the given condition is true. Control comes out of the loop statements once condition becomes false.
+
+There are 3 types of loop control statements in C language. They are.
+
+for
+
+while
+
+do-while
+
+Question: 29
+
+What is meant by protocol?
+
+Protocol is nothing but a set of rules to be followed by a programmer.
+
+Question: 30
+
+What is the use of “goto” statement?
+
+goto statement is used to transfer the normal flow of a program to the specified in the program. Below is the syntax for goto statement in C.
+
+{
+
+……..
+
+goto label;
+
+……
+
+…….
+
+LABEL :
+
+statements;
+
+}
+
+Question: 1
+
+What do you mean by high level, middle level and low level language?
+
+High level languages
+
+These level languages provide almost everything that the programmer might need to do as already build into the language.
+
+Example: Java, Python.
+
+Middle level languages
+
+These languages don’t provide all the built in functions found in high level languages, but provide all building blocks that we need to produce the result we want.
+
+Example: C, C++
+
+Low level languages
+
+These languages provide nothing other than access to the machine’s basic instruction set.
+
+Example: Assembly language.
+
+Question: 2
+
+Where is C program language used or uses of C language?
+
+C languages is used to develop system applications that forms major portion of operating systems such as Windows, UNIX and Linux. Operating systems, C compiler and all UNIX application programs are written in C language. Below are some examples of uses of C language.
+
+Database systems
+
+Graphics packages
+
+Word processors
+
+Spread sheets
+
+Operating system development
+
+Compilers and Assemblers
+
+Network drivers
+
+Interpreters
+
+Question: 3
+
+What is dangling pointers in C?
+
+When a pointer is pointing to non existing memory location is called dangling pointer.
+
+Question: 4
+
+What is static function in C?
+
+All functions are global by default in a C program/file.
+
+But, static keyword makes a function as a local function which can be assessed only by the program/file where it is declared and defined.
+
+Other programs/files can’t access these static functions.
+
+Question: 5
+
+What is embedded C?
+
+Embedded C is the extension of C programming language.
+
+Embedded C is used to develop micro controller based applications.
+
+Embedded C includes features not available in normal C like fixed point arithmetic, named address spaces and basic I/O hardware addressing.
+
+Cell phones, MP3 players are some example for embedded systems in which embedded C is used to program and control these devices.
+
+Question: 6
+
+What is mean by debugging?
+
+Debugging is the process of locating and isolating the errors.
+
+Question: 7
+
+What are all decisions control statements in C?
+
+There are three types of decision making control statements in C language. They are,
+
+if statements
+
+if else statements
+
+nested if statements
+
+Question: 8
+
+What is relocation?
+
+Relocation means identifying the existing addresses of program code and data.
+
+Question: 9
+
+What is a compiler?
+
+A compiler is a program that takes source code as its input, check the entire program instruction by instruction for its grammatical accuracy, and if the source code is grammatical accurate, then it translates the program again instruction by instruction to machine language and writes to the disk file.
+
+Question: 10
+
+Where auto local variables are stored?
+
+These are stored in a stack. This stack is automatically maintained by the system.
+
+Question: 11
+
+Can we make our own header files?
+
+Yes. You can make your own header files and put the declarations of functions and related constants and macros developed by you.
+
+ 
+
+Question: 12
+
+What is the difference between rand(), random(), and randomize()?
+
+random() - returns random number between 0 and one less that its argument.
+
+rand () – returns successive pseudo random numbers in the range 0 to RAND_MAX.
+
+srand() – initializes the random number generator with a given seed value.
+
+randomize() – initializes the random number generator with a random value.
+
+Question: 13
+
+What is a subprogram/module?
+
+It is a program carrying out a particular function and which be called by another program known as the calling program.
+
+A subprogram needs to be placed only once in memory and can be called by the main program or other subprogram as many times as the programmer wants. Also known by various names as function, subroutine or procedure.
+
+Question: 14
+
+What are the differences between exit() and return statement?
+
+First difference is that exit() is a function while return is a statement.
+
+Second difference is that exit() function terminates the program while return statement terminate the function.
+
+Third difference is that exit() function always return some value where it is optional for return statement.
+
+Question: 15
+
+Do function prototypes get stored in executable file?
+
+No. The compiler uses these functions prototypes at the time of compilation.
+
+Therefore, once the program is compiled, they are not required.
+
+Hence they are not stored in executable file.
+
+
+Question: 16
+
+What is the difference between the expression “++a” and “a++”?
+
+With ++a, the increment happens first on variable a, and the resulting value is used. This is called as Prefix increment.
+
+With a++, the current value of the variable will be used in an operation. This is called as postfix increment.
+
+Question: 17
+
+What is identifier in C?
+
+Each program elements in a C program are given a name called identifiers.
+
+Names given to identify Variables, functions and arrays are examples for identifiers.
+
+Question: 18
+
+What is token in C?
+
+C tokens are the basic buildings blocks in C language which are constructed together to write a C program.
+
+Each and every smallest individual unit in a C program is known as C tokens.
+
+Question: 19
+
+What are the types of C tokens?
+
+C tokens are of six types. They are,
+
+Keyword
+
+Identifiers
+
+Constants
+
+Strings
+
+Special symbols
+
+Operators
+
+Question: 20
+
+Define pre-processor?
+
+It is a program that processor the source code before it passes to the compiler.
+
+Question: 21
+
+What are the different types of variables in C?
+
+There are three types of variables in C
+
+Local variable
+
+Global variable
+
+Environment variable
+
+Question: 22
+
+What is environment variable in C?
+
+Environment variable is a variable that will be available for all C applications and C programs.
+
+Once environment variables are exported, we can access them from anywhere in a C program without declaring and initializing in an application or C program.
+
+ 
+
+Question: 23
+
+What is global variable in C?
+
+The variables which are having scope/life throughout the program are called global variables.
+
+A global variable is defined outside the main functions. So, this variable is visible to main function and all other sub functions.
+
+Question: 24
+
+What is local variable in C?
+
+The variables which are having scope/life only within the function are called local variables.
+
+These variables are declared within the function and can’t be accessed outside the function.
+
+Question: 25
+
+What are the types of I/O statements available in C?
+
+There are two types of I/O statements available in C:
+
+ Formatted I/O Statements 
+
+ Unformatted I/O Statements
+
+Question: 26
+
+What is operator in C?
+
+The symbols which are used to perform logical and mathematical operations in a C program are called C operators.
+
+These C operators join individual constants and variables to form expressions.
+
+Operators, functions, constants and variables are combined together to form expression.
+
+Question: 27
+
+What are the different types of operators in C?
+
+C language offers many types of operators. They are:
+
+Arithmetic operators
+
+Assignment operators
+
+Relational operators
+
+Logical operators
+
+Bit wise operators
+
+Conditional operators (ternary operators)
+
+Increment/decrement operators
+
+Special operators
+
+Question: 28
+
+What is bitwise operator in C?
+
+Bitwise operators are used to perform bit operations. Decimal values are converted into binary values which are the sequence of bits and bit wise operators work on these bits.
+
+Bit wise operators in C language are &(bitwise AND), | (bit wise OR), ~ (bitwise OR), ^ (XOR), << (left shift) and >> (right shift).
+
+Question: 29
+
+What is the program development life cycle?
+
+These are the sequence of events considered by the programmer to design and develop efficient programs.
+
+Question: 30
+
+What is the starting index of an array?
+
+The starting index of an array is 0 (zero).
+
+Question: 31
+
+What is the difference between Library Function and User-Defined Function?
+
+Library functions are the functions which are already written in some standard libraries.
+
+User defined function means the function which are written by the user to perform particular task.
+
+Question: 32
+
+What is a Function?
+
+A  Function is a set of instructions used to perform a specified task which Repeatedly occurs in the main program.
+
+Question: 33
+
+What is the difference between declaration and definition of a function?
+
+Like variables, declaration of a function only identifies the return type of the function and the type of format arguments. The declaration of a function is usually referred as a function prototype.
+
+On the other hand, definition of a function contains the statements to accomplish the intended task. Like variables functions also have an address associated with its name.
+
+Question: 34
+
+Can we make our own library of functions?
+
+Yes. Different compilers provide different utilities to add/delete/modify functions in the standard library.
+
+For example Turbo C/C++ compilers provide a utility called TLIB.EXE. Using this utility we can also develop a completely new library.
+
+Question: 35
+
+What is the use of sizeof() functions of?
+
+sizeof() function is used to find the memory space allocated for each data type in C.
+
+Question: 36
+
+Where should typecast functions not used in C?
+
+Type cast function should not be used in const and volatile declaration.
+
+Because, constant value can’t be modified by the program once they are defined.
+
+And, volatile variables values might keep on changing without any explicit assignment by the program as operating system will be modifying these values.
+
+ 
+
+Question: 37
+
+Where is the function declared as static stored in memory?
+
+Yes static keyword would not affect where the function gets stored, even if it is static a function will always be stored in stack. But it hides the function from being used in other files other than in which it is declared.
+
+Question: 38
+
+What is gets() function?
+
+The gets() function allows a full line data entry from the user.
+
+When the user processes the enter key to end the input, the entire line of characters is stored to a string variable.
+
+Note that the enter key is not included in the variable, but instead a null terminator is placed after the last character.
+
+Question: 39
+
+What are static functions?
+
+In C, functions are global by default.
+
+The static keyword before a function name makes it static.
+
+Unlike global functions in C, access to static functions is restricted to the file where they are declared.
+
+Therefore, when we want to restrict access to functions, we make them static.
+
+Another reason for making functions static can be reuse of the same function name in other files.
+
+Question: 40
+
+What is the difference between functions abs() and fabs()?
+
+These two functions basically perform the same action, which is to get the absolute value of the given value.
+
+Abs() is used for integer values, while fabs() is used for floating type numbers. Also the prototype for abs() is under <stdlib.h>, while fabs() is under <math.h>.
+
+Question: 41
+
+What is exit() function in C?
+
+exit() function terminates the program/process normally and returns the status code to the parent program/process.
+
+Syntax: void exit(int status)
+
+Question: 1
+
+What is the difference between exit() and return() in C?
+
+exit() is a system call which terminates current process.
+
+exit() is not an instruction of C language.
+
+Whereas, return() is a C language instructions/statements and it returns from the current function (i.e. provides exit status to calling function and provides control back to the calling functions).
+
+Question: 2
+
+What is the difference between C and C++?
+
+Even though C and C++ programming languages are belonging to middle level languages, both are differed in below.
+
+C is structure/procedure oriented programming language whereas C++ is object oriented programming language.
+
+C language program design is top down approach whereas C++ is using bottom up approach.
+
+Polymorphism, virtual function, inheritance, Operator overloading, namespace concepts are not available in C programming language. Whereas C++ language supports all these concepts and features
+
+C languages give importance to functions rather than data. Whereas C++ gives importance to data rather than functions
+
+So, data and function mapping is difficult in C. But, data and function mapping is simple in C++ that can be done using objects.
+
+C language does not support user define data types. Whereas C++ supports user define data types.
+
+Exception handling is not present in C programming language. Whereas exception handling is present in C++ language
+
+C language allows data to freely flow around the functions. But, data and functions are bound together in C++ which does not allow data to freely flow around the functions.
+
+Question: 3
+
+What is the difference between structured oriented, object oriented and non structure oriented programming language?
+
+Structured oriented programming language:
+
+In this type of language, large programs are divided into small programs called functions.
+
+Prime focus is on functions and procedures that operate on data.
+
+Data moves freely around the system from one function to another.
+
+Program structure follows “Top down Approach”
+
+Example: C, Pascal, ALGOL and Modula-2.
+
+Object oriented programming language:
+
+In this type of language, programs are divided into objects.
+
+Prime focus is on the data that is being operated and not on the functions or procedures.
+
+Data is hidden and cannot be accessed by external functions.
+
+Program structure follows Bottom up Approach
+
+Example: C++, Java and C#.
+
+Non structure oriented programming language:
+
+There is no specific structure for programming this language.
+
+Example: BASIC, COBOL, FORTRAN
+
+Question: 4
+
+What are multidimensional arrays?
+
+Multidimensional arrays are capable of storing data in a two or more dimensional structure.
+
+Question: 5
+
+Which level is C language belongings to?
+
+C language is belonging to middle level language.
+
+C language behaves as a bridge between machine level (low level) Languages and high level languages.
+
+C language is more user friendly than machine level languages.
+
+And, C language support does not support all the concepts that high level languages offer. So, C programming languages is called as middle level language.
+
+
+Question: 6
+
+What is IDE?
+
+IDE is nothing but Integrated Development Environment.
+
+IDE is a tool that provides user interface with compilers to create, compile and execute C programs.
+
+Question: 7
+
+What are the different types of address in a program?
+
+There are two types of addresses: absolute addresses and relative addresses.
+
+Absolute addresses are those addresses that are fixed and never changes such as addresses of I/O and other ports, etc.
+
+On the other hand, relative addresses are those addresses that depend on the starting address of the object code such as addresses of instructions and operands (variables and constants declared and defined in a function). Whenever, the starting address of the object code is changed, these addresses also need to be changed.
+
+Question: 8
+
+What is the difference between array and string in C?
+
+Array can hold any of the data types. But, string can hold only char data type.
+
+Array size must be a constant value. So, array size can’t be changed once declared. But, string size can be modified using char pointer.
+
+Question: 9
+
+What are the key features or characteristics of C languages?
+
+The characteristics of C language are:
+
+Reliability
+
+Portability
+
+Flexibility
+
+Interactivity
+
+Modularity
+
+Efficiency and Effectiveness
+
+Question: 10
+
+What is scanf()?
+
+scanf() function is an inbuilt library function in C which is available in C library by default. This function is declared and related macros are defined in “stdio.h” header file.
+
+scanf() function is used to read character, string, numeric data from keyboard.
+
+Question: 11
+
+What is printf()?
+
+printf() is an inbuilt function in C which is available in C library by default. This function is declared and related macros are defined in “stdio.h” header file.
+
+printf() functions is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+
+Question: 12
+
+What is a source code, object code and executable code?
+
+Source code is a program written in a high level language, such as C.
+
+Object code is a translated version of source code in machine language.
+
+Executable code is a final version of a program, in machine language, that is executed on user’s command.
+
+Question: 13
+
+What is a File?
+
+A File is a collection of related information that is permanently stored on the disk and allows us to access and alter that information whenever necessary.
+
+Question: 14
+
+What is a pointer?
+
+Pointer is a variable which holds the address of another variable.
+
+Question: 15
+
+What are the uses of pointers?
+
+Pointers are used to return more than one value to the function.
+
+Pointers are more efficient in handling the data in arrays.
+
+Pointers reduce the length and complexity of the program.
+
+They increase the execution speed.
+
+The pointerssaves data storage space in memory.
+
+Question: 16
+
+Is it possible to nest the functions?
+
+Yes. The functions can be nested.
+
+Question: 17
+
+What is a structure?
+
+Structure is a group name in which dissimilar datas are grouped together.
+
+Question: 18
+
+What are structures in C?
+
+Structures types are primarily used to store records. A record is made up of related fields. This makes it easier to organize a group of related data.
+
+Question: 19
+
+What is void pointer in C?
+
+Void pointer is a generic pointer that can be used to point another variable of any data type.
+
+Void pointer can store the address of a variable belonging to any of the data type.
+
+So, void pointer us also called as general purpose pointer.
+
+Question: 20
+
+What is the difference between structure and union?
+
+Union allocates the memory equal to the maximum memory required by the member of the union but structure allocates the memory equal to the total memory required by the members.
+
+In union, one block is used by all the member of the union but in case of structure, each member has their own memory space.
+
+Union is best in the environment where memory is less as it shares the memory allocated. But structure cannot implement in shared memory.
+
+As memory is shared, ambiguity is more in union, but less in structure.
+
+Self referential union cannot be implemented in any data structure, but self referential structure can be implemented.
+
+ Question: 21
+
+What is enum in C?
+
+Enumeration is a data type that consists of named integer constants as a list.
+
+It starts with 0 by default and value is incremented by 1 for the sequential identifiers in the list.
+
+Question: 22
+
+What is variable in C?
+
+C variable is a named location in a memory where a
+
+Program can manipulate the data. This location is used to hold the value of the variables.
+
+C variable might be belonging to any of the data type like int, float and char etc.
+
+The value of the C variable may get change in the program.
+
+Question: 23
+
+What is the default statement used in switch case in C?
+
+Switch case statements are used to execute only specifies case statements based on the switch expression. If switch expression does not match with any case, default statements are executed by the program.
+
+Question: 24
+
+What is the restriction on the declarations and/or definitions of variables?
+
+The restriction on the declarations and/or definitions is that they must come before the executable statements in a block, and hence they appear in the beginning of a block.
+
+Question: 25
+
+When should the functions prototypes be made global?
+
+When the functions can be called from more than one function.
+
+Question: 26
+
+What is type casting?
+
+Type casting is the process of converting the value of an expression to a particular data type.
+
+Example:       
+
+int  x,y;
+
+C=(float) x/y;
+
+Where x and y are defined as integers. Then the result of x/y is converted into float.
+
+Question: 27
+
+What is meant by Control String in Input/output Statements?
+
+Control String contains the format code characters, specifies the type of data, that the user accessed within the Input/output statements.
+
+Question: 28
+
+What are the main elements of an array declaration?
+
+There are three elements are there called Array name, Type and Size.
+
+Question: 29
+
+How can you return more than one value from a function?
+
+Function return only one value. By using pointer we can return more than one value.
+
+Question: 30
+
+What is a union?
+
+Union is also a group name used to define dissimilar data types.
+
+The Union occupy only the maximum byte of the data type.
+
+If you declare Integer and character, then the union occupy only 2 bytes.
+
+Whereas Structure occupy only 3 bytes.
+
+Question: 31
+
+What is an Array?
+
+An array is a group of similar data types stored under a common name.
+
+Int a[10]; Here  a[10] is an array with  10 integer  values.
+
+Question: 32
+
+What is the difference between ++a and a++?
+
+       ++a Means do the increment before the operation (pre increment)
+
+        a++  Means do the increment after the  operation(post increment)
+
+Example:  a=5;
+
+                   x=a++;              /*  assign  x=5 */
+
+                   y=a;                 /*now  y assigns  y=6 */
+
+                  x=++a;             /*assigns  x=7 */
+
+Question: 33
+
+How many bytes are occupied by the int, char, float, long int and double?
+
+Int
+
+Char
+
+Float
+
+Long int
+
+Double               
+
+2  bytes
+
+1 bytes
+
+4 bytes
+
+4 bytes
+
+8 bytes
+
+ 
+
+Question: 34
+
+What is the difference between while and do while loops in C?
+
+While loop is executed only when given condition is true.
+
+Whereas, do while loop is executed for first time irrespective of the condition.
+
+After executing while loop for first time, then condition is checked.
+
+ 
+
+Question: 35
+
+Which functions in C can be used to append a string to another string?
+
+The strcat function. It takes two parameters, the source string and the string value to be appended to the source string.
+
+Question: 36
+
+What is pointer in C?
+
+Pointer is a variable that stores/points the address of another variable. Normal variable stores the value of the variable whereas pointer variable stores the address of the variable.
+
+syntax: data_type * var_name;
+
+Where, * is used to denote that “p” is pointer variable and not a normal variable.
+
+Question: 37
+
+What are the advantages of using typedefs in a program?
+
+The advantages of using typedefs in a program are
+
+It makes writing of complicated declaration a lot easier, which in turn helps in eliminating lot of typographical errors.
+
+It also helps in achieving portability in programs. Suppose there are some data types that are machine dependent and we use typedefs for those data types, then we only need to change typedefs as we move to new machine platform.
+
+Question: 38
+
+Is it possible to write a program without a main() functions?
+
+No, the main functions is mandatory. The execution of all programs begins from the main() function.
+
+Question: 39
+
+What are the different types of errors?
+
+The types of errors are syntax error, logical error, and runtime error.
+
+Syntax error results from the violation of the grammar (syntax) of C language. In the process of syntax errors, the program will not compile.
+
+Logical errors result from the wrong logic that in turn result from the poor understanding of the problem under consideration. Even in the process of logical errors, the program will run but the results will be incorrect. These errors are most difficult to locate particularly if the problem is large and complex.
+
+Runtime errors result either from non availability of the resource required such an attempt to open/read from a non existing data file or memory allocation failure, etc. or an attempt to perform an illegal operation such as division by zero, taking square root or logarithm of a negative number etc. In the presence of these errors, the program will terminate prematurely, i.e., before finishing its intended task. Premature termination is also known as abnormal terminal.
+
+Errors are also known as bugs.
+
+Question: 40
+
+What is debugging?
+
+It is the process of locating and correcting the bugs.
+
+Question: 41
+
+What is Macro?
+
+Macro is a name which is given to a value or to a piece of code/block in a program.
+
+Instead of using the value, we can use macro which will replace the value in a program.
+
+Syntax: #define<MACRO_NAME>VALUE
+
+Question: 42
+
+What is the difference between while loop and do while loop?
+
+In the while loop the condition is first executed. If the condition is true then
+
+It executes the body of the loop. When the condition is false it comes out of the loop.
+
+ 
+
+In the do while loop first the statement is executed and then the condition is checked.
+
+The do while loop will execute atleast one time even though the condition is false at the very first time.
+
+Question: 43
+
+How do you open the file?
+
+The File is opened by the statement
+
+        fp=fopen(“file_name”,”mode”);
+
+Where fp means file pointer, mode is the file opening mode, such as write,read, or append mode.
+
+Question: 44
+
+What are the types of errors occurred in C program?
+
+There are four types of errors occurred during the program execution.
+
+Syntax errors
+Runtime errors
+Logical errors
+Latent errors
+Question: 45
+
+What is the modulus operator?
+
+The modulus operator outputs the remainder of a division. It makes use of the percentage (%) symbol.
+
+
+Question: 46
+
+What are the logical operators in C?
+
+Logical operators are used to perform logical operations on the given expressions. There are 3 logical operators in C language. They are,
+
+logical AND(&&)
+
+logical OR(||)
+
+logical NOT(!)
+
+Question: 47
+
+What is assignment operator in C?
+
+Assignment operators are used to assign the values to the variables.
+
+Assignment operators are =, +=, -=, /+, %= etc.
+
+Question: 48
+
+What is the relational operator in C?
+
+Relational operators are used to find the relation between two variables. i.e. to compare the values of two variables in a C program.
+
+Relational operators are >, <, >=, <=, ==, !=.
+
+Question: 49
+
+What are *and & operators means?
+
+‘*’ operator means ‘value at the address’.
+
+‘&’ operator means ‘address of’.
+
+Question: 50
+
+What is a Modulo Operator?
+
+‘%’ is a modulus operator. It gives the remainder of an integer division.
+
+Question: 1
+
+What is an endless loop?
+
+An endless loop can mean two things.
+
+One is that it was designed to loop continuously until the condition within the loop is met, after which a break function would cause the program to step out of the loop.
+
+Another idea of an endless loop is when an incorrect loop condition was written, causing the loop to run erroneously forever. Endless loops are oftentimes referred to as infinite loops.
+
+Question: 2
+
+What are the advantages and disadvantages of a heap?
+
+Storing data on the heap is slower than it would take when using the stack.
+
+However, the main advantage of using the heap is its flexibility.
+
+That’s because memory in this structure can be allocated and remove in any particular order. Slowness in the heap can be compensated if an algorithm was well designed and implemented.
+
+Question: 3
+
+What are linked lists?
+
+A linked list is composed of nodes that are connected with another.
+
+In C programming linked lists are created using pointers.
+
+Using linked lists is one efficient way of utilizing memory for storage.
+
+Question: 4
+
+What are binary trees?
+
+Binary trees are actually an extension of the concept of linked lists.
+
+A binary tree has two pointers, a left one and right one. Each side can further branch to form additional nodes, which each node having two pointers as well.
+
+Question: 5
+
+What is the default statement used in switch case in C?
+
+Switch case statements are used to execute only specifies case statements based on the switch expression.
+
+If switch expression does not match with any case, default statements are executed by the program.
+
+Question: 6
+
+Where is the function declared as static stored in memory?
+
+Yes static keyword would not affect where the function gets stored, even if it is static a function will always be stored in stack.
+
+But it hides the function from being used in other files other than in which it is declared.
+
+Question: 7
+
+What is FIFO?
+
+In C programming, there is a data structure known as queue. In this structure, data is stored and accessed using FIFO format, or First In First Out.
+
+A queue represents a line wherein the first data that was stored will be the first one that is accessible as well.
+
+Question: 8
+
+What is a program flowchart?
+
+A flowchart provides a visual representation of the step by step procedure towards solving a given problem. Flowcharts are made of symbols, with each symbol in the form of different shapes. Each shape may represent a particular entity within the entire program structure, such as a process, a condition, or even an input/output phase.
+
+Question: 9
+
+What is the difference between pre decrement and post decrement operator?
+
+Pre decrement operator is used to decrement variable value by 1 before assigning the value to the variable.
+
+Post decrement operator is used to decrement variable value by 1 after assigning the value to the variable.
+
+Question: 10
+
+ What is a nested loop?
+
+A nested loop is a loop that runs within another loop. Put it in another sense, you have an inner loop that is inside an outer loop.
+
+In this scenario, the inner loop performed a number of times as specified by the outer loop.
+
+For each turn on the outer loop, the inner loop is first performed.
+
+
+Question: 11
+
+What is the syntax for comments in C?
+
+Below is the syntax for comments in C. The characters or words or anything which are given between “/*” and “*/”, won’t be considered by C compiler for compilation process. These will be ignored by C compiler during compilations.
+
+Syntax : /* your comments here */
+
+Question: 12
+
+What is file pointer in C?
+
+File pointer is a pointer which is used to handle and keep track on the files being accessed. A new data type called FILE is used to declare file pointer. This data type is defined in stdio.h file. File pointer is declared as FILE *fp. Where, ‘fb’ is a file pointer.
+
+fopen() function is used to open a file that returns a FILE pointer. Once file is opened, file pointer can be used to perform I/O operations on the file. fclose() function is used to close the file.
+
+Question: 13
+
+What are runtime errors?
+
+These are errors that occur which the program is being executed.
+
+One common instance wherein run time errors can happen is when you are trying to divide a number by zero. When a run time errors occur, program execution will pause, showing which program line caused the error.
+
+Question: 14
+
+What is stack?
+
+A stack is one form of data structure. Data is stored in stacks using the FILO (First In Last Out) approach.
+
+At any particular instance, only the top of the stack is accessible. Which means that in order to retrieve data that is stored inside the stack, those on the upper part should be extracted first. Storing data in a stack is also referred to as a PUSH, while data retrieval is referred to as a POP.
+
+Question: 15
+
+What is stack memory allocation and dynamic memory allocation?
+
+The compiler allocates the required memory space for a declared variable. By using the address of a operator, the reserved address is obtained and this address may be assigned to a pointer variable. Since, most of the declared variable has static memory, this way of assigning pointer value to a pointer variable is known as static memory allocation. Memory is assigned during compilation time.
+
+Dynamic memory allocation: it uses functions such as malloc() or calloc() to get memory dynamically. If these functions are used to get memory dynamically and the values returned by these functions are assigned to pointer variables, such assignments are known as dynamic memory allocation. Memory is assigned during run time.
+
+Question: 16
+
+Can variable name start with numbers?
+
+No. variable names can’t start with numbers as per the variable naming rule.
+
+Question: 17
+
+List out some of C compilers?
+
+There are so many compilers available in market for Windows operating system and UNIX. We are listing some of them here for your reference.
+
+AMPC
+
+CCS C Compiler
+
+ch
+
+clang
+
+cygwin
+
+Digital mars
+
+GCC compiler
+
+MikroC Compiler
+
+Portable C Compiler,Power C, QuickC, Ritchie C Compiler, Small- C.
+
+Question: 18
+
+What is modifiers in C?
+
+The amount of memory space to be allocated for a variable is derived by modifiers.
+
+Modifiers are prefixed with basic data types to modify the amount of storage space allocated to a variable.
+
+Question: 19
+
+What is void in C?
+
+Void is an empty data type that has no value.
+
+We use void data type in functions when we don’t want to return any value to the calling functions.
+
+ 
+
+Question: 20
+
+How do you declare a variable that will hold string values?
+
+The char keyword can only hold I character value at a time. By creating an array of characters, you can store string values in it.
+
+Question: 21
+
+What is the difference between exit() and return() in C?
+
+exit() is a system call which terminates current process.
+
+exit() is not an instruction of C language.
+
+Whereas, return() is a C language instructions/statements and it returns from the current function (i.e. provides exit status to calling function and provides control back to the calling functions).
+
+Question: 22
+
+What is the difference between functions getch() and getche()?
+
+Both functions will accept a character input values from the user.
+
+When using getch(),  the key that was pressed will not appear on the screen, and is automatically captured and assigned to a variable.
+
+When using getche(), the key that was pressed by the user will appear on the screen, while at the same time being assigned to a variable.
+
+Question: 23
+
+What is the difference between top down approach and bottom up approach in programming languages?
+
+Top down approach and bottom up approach are involved in software development. These approaches are not involved in program execution.
+
+Structure/procedure oriented programming languages like C programming language follows top down approach. Whereas object oriented programming languages like C++ and Java programming language follows bottom up approach.
+
+Top down approach begins with high level design and ends with low level design or development. Whereas, bottom up approach begins with low level design or development and ends with high level design.
+
+In top down approach, main() function is written first and all sub functions are called from main functions. Then sub functions are written based on the requirements. Whereas, in bottom up approach, code is developed for modules and then these modules are integrated with main() function.
+
+Nowadays, both approaches are combined together and followed in modern software design.
+
+Question: 24
+
+What is the difference between calloc and malloc?
+
+calloc and malloc are used for dynamic memory allocation. calloc initializes the memory locations to zero by default but malloc memory contains garbage values.
+
+Question: 25
+
+What is a newline escape sequence?
+
+A newline escape sequence is represented by the character.
+
+This is used to insert a new line when displaying data in the output screen.
+
+More spaces can be added by inserting more characters.
+
+For example, would insert two spaces. A newline escape sequence can be placed before the actual output expression or after.
+
+Question: 26
+
+What is pointer linking with operating system?
+
+When we declare a null pointer it addresses the 0 address which is the address of operating system so we cannot use that address this is what the pointer is linked to OS.
+
+Question: 27
+
+Is there a built in function in C that can be used for sorting data?
+
+Yes, use the qsort() function. It is also possible to create user defined functions for sorting, such as those based on the balloon sort and bubble sort algorithm.
+
+Question: 28
+
+How do you determine the length of a string value that was stored in a variable?
+
+To get the length of a string value, use the function strlen(). For example, if you have a variable named FullName, you can get the length of the stored string value by using this statement: I = strlen(FullName); the variable I will now have the character length of the string value.
+
+Question: 29
+
+What does the function toupper() do?
+
+It is used to convert any letter to its upper case mode. Toupper() function prototype is declared in <ctype.h>. Note that this function will only convert a single character, and not an entire string.
+
+Question: 30
+
+What is NULL in C?
+
+NULL is a macro which defined in C header files. The value of NULL macro is 0. It is defined in C header files as below
+
+#define NULL (void *) 0;
+
+NULL is used for pointers only as it is defined as (void *) 0. It should not be used other than pointers. If NULL is assigned to a pointer, then pointer is pointing to nothing.
+
+Question: 31
+
+What is the use of semicolon(;) at the end of every program statement?
+
+It has to do with the parsing process and compilation of the code.
+
+A semicolon acts as a delimiter, so that the compiler knows where each statement ends, and can proceed to divide the statement into smaller elements for syntax checking.
+
+ 
+
+Question: 32
+
+What is the difference between single equal “=” and double equal “==” operators in C?
+
+Single equal is an assignment operator used to assign the values to the variables.
+
+But, double equal is relational operator used to compare two variable values whether they are equal or not.
+
+Question: 33
+
+Where should typecast functions not used in C?
+
+Type cast function should not be used in const and volatile declaration.
+
+Because, constant value can’t be modified by the program once they are defined.
+
+And, volatile variables values might keep on changing without any explicit assignment by the program as operating system will be modifying these values.
+
+Question: 34
+
+What is the use of “# define” in C?
+
+#define is a pre-processor directive which is used to define constant value. This constant can be any of the basic data types.
+
+Question: 35
+
+How will you print “Hello World” without semicolon?
+
+int main (void)
+
+{
+
+if (printf(“Hello World”));
+
+}
+
+Question: 36
+
+What will happen if break statement is not used in switch case in C?
+
+Switch case statements are used to execute only specific case statements based on the switch expression.
+
+If we do not use break statement at the end of each case, program will execute all consecutive case statements until it finds next break statement or till the end of switch case block.
+
+Question: 37
+
+What is the difference between auto variable and register variable in C?
+
+Storage class of all variables is auto by default unless we specify a variable is register or static or extern in C program.
+
+Register variables will be accessed very faster than the normal/auto variables.
+
+Since they are stored in register memory rather than main memory.
+
+But only limited variables can be used as register since register size is very low. (16 bits, 32 bits, or 64 bits).
+
+Question: 38
+
+Can the “if” function be used in comparing strings?
+
+No. “ if”command can only be used to compare numerical values and single character values.  For comparing string values, there is another function called strcmp that deals specifically with strings.
+
+
+Question: 1
+
+What are all the sections that a C program may/must have?
+
+There are many sections in a C program structure. They are
+
+Documentation section
+
+Link section
+
+Definition section
+
+Global declaration section
+
+Function prototype declaration section
+
+Main function
+
+User defined function section
+
+main()  function section is an important section in a C program as program execution starts from main() function only in C language. A C program may not have all other sections except main() function.
+
+Question: 2
+
+What are the different types of modifiers in C?
+
+There are five modifiers available in C language. They are,
+
+short
+
+long
+
+signed
+
+unsigned
+
+long long
+
+Question: 3
+
+What is constant in C?
+
+Constants refer to fixed values. They are also called as literals.
+
+C constants are also like normal variables.
+
+But, only difference is, constant values can’t be modified by the program once they are defined.
+
+Constants may be belonging to any of the data type.
+
+Question: 4
+
+What are the types of constants in C?
+
+There are many types of constants in C Programming are:
+
+Integer constants
+
+Real or floating point constants
+
+Octal and hexadecimal constants
+
+Character constants
+
+String constants
+
+Backslash character constants
+
+Question: 5
+
+What is meant by preprocessor?
+
+Preprocessor is the program, that process our source program before the compilation.
+
+Question: 1
+
+What is a structured programming language?
+
+A language is said to be a structural language if it meets the requirements of structured programming.
+
+Question: 2
+
+What is the main difference between malloc() and calloc()?
+
+The main difference malloc() and calloc() is that malloc() function just allocates the memory whereas the malloc() function also initializes the memory to zeros.
+
+Question: 3
+
+What is bebugging?
+
+It is the process of injecting known bugs in a program in order to train the students in debugging.
+
+Question: 4
+
+What is the significance of storage class?
+
+The storage class, in general, determines the scope and lifetime of a variable, which in turn helps to economize the memory usage.
+
+Question: 5
+
+What is translation unit?
+
+A translation unit is a set of files seen by the compiler.
+
+It includes the source code under consideration and files that are included such as header files and other disk files contain C code.
+
+Question: 1
+
+What is arithmetic operator in C?
+
+C Arithmetic operators are used to perform mathematical calculations like addition, subtraction, multiplication, division and modulus in C programs.
+
+Arithmetic operators are +, -, *, /, %.
+
+Question: 2
+
+Is pointer arithmetic a valid one?
+
+Pointer arithmetic is not valid one. Pointer addition, multiplication and division are not allowed as these are not making any sense in pointer arithmetic.
+
+Question: 3
+
+What is the difference between call by value and call by reference?
+
+When using Call by Value, you are sending the value of a variable as parameter to a function.
+
+Where Call by Reference sends the address of the variable. Also under Call by Value, the value in the parameter is not affected by whatever operation that takes place, while in the case of Call by Reference, values can be affected by the process within the functions.
+
+Question: 4
+
+When can void pointer and null pointer be used in C?
+
+Void pointer is a generic pointer that can be used to point another variable of any data type.
+
+Null pointer is a pointer which is pointing to nothing.
+
+Question: 5
+
+Is void pointer arithmetic a valid one?
+
+Arithmetic operation on void pointer is not valid one. Void pointer is a generic pointer.
+
+It is not referring int, char or any other data type specifically.
+
+So, we need to cast void pointer to specific type before applying arithmetic operations.
+
+Question: 1
+
+Is it possible to create your own header files?
+
+Yes, it is possible to create a customized header file.
+
+Just include in it the function prototypes that you want to use in your program, and use the #include directive followed by the name of your header file.
+
+Question: 2
+
+What is “##” operator in C?
+
+## is a pre-processor macro in C. It is used to concatenate 2 tokens into one token.
+
+Question: 3
+
+Can you pass an entire structure to functions?
+
+Yes, it is possible to pass an entire structure to a function in a call by method style.
+
+However, some programmers prefer declaring the structure globally, and then pass a variable of that structure type to a function.
+
+This method helps maintain consistency and uniformity in terms of arguments type.
+
+Question: 4
+
+What is the difference between memcpy() & strcpy() functions in C?
+
+memcpy() function is used to copy a specified number of bytes from one memory to another. Whereas, strcpy() function is used to copy the contents of one string into another string.
+
+memcpy() function acts on a memory rather than value. Whereas, strcpy() function acts on value rather than memory.
+
+Question: 5
+
+What are actual arguments?
+
+When you create and use functions that need to perform an action on some given values, you need to pass these given values to that function.
+
+The values that are being passed into the called functions are referred to as actual arguments.
+
+Question: 1
+
+What is the difference between getch() and getche()?
+
+Both getch() and getche() are used to read single character there is very little difference
+
+Both functions accept a character input value from the user.
+
+When getch() is used, the key that was pressed will not appear on the screen. It is automatically captured and assigned to a variable.
+
+While when getche() is used, the key that was pressed by the user appears on the screen and is assigned to a variable.
+
+Question: 2
+
+What is the syntax for ternary operators in C?
+
+Ternary operator is same as if else control statement in C.
+
+Syntax:
+
+(Condition? true_value: false_vaue);
+
+Question: 3
+
+What is const pointer in C?
+
+Const pointer is a pointer that can’t exchange the address of the variable that of pointing to.
+
+Once const pointer is made to point one variable, we can’t change this pointer to point to any other variable.
+
+This pointer is called const pointer.
+
+ 
+
+Question: 4
+
+What is wild pointer in C?
+
+Uninitialized pointers are called as wild pointers in C which points to arbitrary (random) memory location.
+
+This wild pointer may lead a program to behave wrongly or to crash.
+
+Question: 5
+
+Can a variable be both const and volatile?
+
+Yes. The const modifier means that this code cannot change the value of the variable, but that does not mean that the value cannot be changed by means outside this code. If a variable is both const and volatile, the two modifiers can appear in either order.
+
+
+Question: 1
+
+What is the difference between Logical AND and Bitwise AND?
+
+Logical AND (&&): Only used in conjection with two expressions, to test more than one condition. If both the conditions are true then returns 1.
+
+If false then return 0.
+
+Bitwise AND (&): Only used in bitwise manipulation. It is an Unary operator.
+
+Question: 2
+
+What is the difference between int, char, float and double data types?
+
+Integer data type allows a variable to store numeric values. The storage size of int data type is 2 or 4 or 8 byte. It varies depend upon the processor in the CPU.
+
+Character data type allows a variable to store only one character. Storage size of character data type is 1.
+
+Float data type allows a variable to store decimal values. Storage size of float data type is 4. This also varies depend upon the processor in the CP.
+
+Double data type is also same as float data type which allows up to 10 digits after decimal.
+
+Question: 3
+
+What is the difference between variable declaration and variable definition in C?
+
+Variable declaration tells the compiler about data types and size of the variable. Whereas, variable definition allocates memory to the variable.
+
+Variable can be declared many times in a program. but definition can happen only one time for a variable in a program.
+
+Variable declaration is for assignment of properties and identification to a variable. Whereas, variable definition is for assignments of storage space to a variable.
+
+Question: 4
+
+What is the difference between auto variables and static variable in C?
+
+Both auto and static variables are local variables.
+
+Static variables can retain the value of the variable between different function calls.
+
+But, scope of auto variable is within the function only. It can’t retain the value of the variable between different function calls.
+
